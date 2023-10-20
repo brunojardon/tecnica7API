@@ -1,0 +1,6 @@
+/home/bruno/Documents/internship/tecnina7API/src/main/java/com/tecnica/api/adapters/questions/QuestionsController.java
+/home/bruno/Documents/internship/tecnina7API/src/main/java/com/tecnica/api/adapters/questions/dto/QuestionsRequestDto.java
+/home/bruno/Documents/internship/tecnina7API/src/main/java/com/tecnica/api/domain/port/QuestionsService.java
+/home/bruno/Documents/internship/tecnina7API/src/main/java/com/tecnica/api/ApiApplication.java
+/home/bruno/Documents/internship/tecnina7API/src/main/java/com/tecnica/api/domain/model/questions.java
+/home/bruno/Documents/internship/tecnina7API/src/main/java/com/tecnica/api/domain/port/QuestionsRepository.java
